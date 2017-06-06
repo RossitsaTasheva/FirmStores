@@ -1,0 +1,32 @@
+<catalog>
+   <item id="01">    
+      <type>TV</type>
+      <brand>Sony</brand>
+      <model>2002</model>
+      <quantity>2</quantity>
+      <priceitem>200</priceitem>
+  </item>
+   <item id="02">    
+      <type>Laptop</type>
+      <brand>Lenovo</brand>
+      <model>G70</model>
+      <quantity>1</quantity>
+      <priceitem>200</priceitem>
+  </item>
+   <item id="03">    
+      <type>Fridge</type>
+      <brand>Ocean</brand>
+      <model>DD700</model>
+      <quantity>8</quantity>
+      <priceitem>200</priceitem>
+  </item>
+   <item id="04">    
+      <type>Absorbator</type>
+      <brand>Veco</brand>
+      <model>E150</model>
+      <quantity>6</quantity>
+      <priceitem>200</priceitem>
+  </item>
+ 
+  
+</catalog>
